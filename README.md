@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pucletaco
-- 👀 I’m interested in mobile development and front and dev.
-- 🌱 I’m currently learning C# and JavaScript
+- 👀 I’m interested in mobile development and frontend dev.
+- 🌱 I’m currently learning C# and JavaScript...
 - 📫 How to reach me pucletaco@gmail.com
 
 <!---
